@@ -1,5 +1,5 @@
 # professional-website-terraform-template
-The files used for the pipeline demo are as follows:
+The files used to launch a website with Terraform are as follows:
 1. main.tf — lists the providers (AWS, GitHub) and the versions used.
 2. s3.tf — contains configuration of S3 buckets.
 3. codepipeline.tf — contains configuration of CodePipeline.
