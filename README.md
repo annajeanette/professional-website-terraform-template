@@ -1,5 +1,5 @@
 # professional-website-terraform-template
-Instructions for deploying this project with terrsform can be found here -> https://medium.com/@anna.jeanette.b/how-i-created-a-on-demand-high-performance-professional-website-with-terraform-and-aws-47d109091419
+Instructions for deploying this project with terraform can be found here -> https://medium.com/@anna.jeanette.b/how-i-created-a-on-demand-high-performance-professional-website-with-terraform-and-aws-47d109091419
 The files used to launch a website with Terraform are as follows:
 1. main.tf — lists the providers (AWS, GitHub) and the versions used.
 2. s3.tf — contains configuration of S3 buckets.
